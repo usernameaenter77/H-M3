@@ -1,0 +1,99 @@
+body {
+  background-color: blanchedalmond;
+}
+.img1 {
+  width: 350px;
+  margin: 20px 550px;
+
+  width: 350px;
+  height: 350px;
+  background-color: #eee;
+  box-shadow: 2px 2px 5px rgb(193, 184, 56), 2px 2px 5px rgb(143, 111, 25);
+
+  width: 350px;
+  height: 350px;
+  background: #ff9031;
+  border-radius: 30px;
+
+  
+  width: 350px;
+    height: 350px;
+    background: #fd4d66;
+    
+    transition: 0.2s linear;
+    transition-property: opacity;
+}
+.img1:hover{
+    opacity: 0.5;
+}
+
+.img2 {
+  width: 350px;
+  margin: 25px 550px;
+  width: 350px;
+  height: 350px;
+  background-color: #eee;
+  box-shadow: 2px 2px 5px rgb(193, 184, 56), 2px 2px 5px rgb(143, 111, 25);
+  height: 350px;
+  background: #ff9031;
+  border-radius: 30px;
+
+  
+  width: 350px;
+    height: 350px;
+    background: #fd4d66;
+    
+    transition: 0.2s linear;
+    transition-property: opacity;
+}
+.img2:hover{
+    opacity: 0.5;
+}
+
+.img3 {
+  width: 350px;
+  margin: 20px 550px;
+
+  width: 350px;
+  height: 350px;
+  background-color: #eee;
+  box-shadow: 2px 2px 5px rgb(193, 184, 56), 2px 2px 5px rgb(143, 111, 25);
+  height: 350px;
+  background: #ff9031;
+  border-radius: 30px;
+
+  width: 350px;
+    height: 350px;
+    background: #fd4d66;
+    
+    transition: 0.2s linear;
+    transition-property: opacity;
+}
+.img3:hover{
+    opacity: 0.5;
+}
+
+.text1 {
+  font-family: tahoma;
+  font-size: 15px;
+  margin: 0 400px;
+  text-align: center;
+}
+.text2 {
+  font-family: tahoma;
+  font-size: 15px;
+  margin: 0 400px;
+  text-align: center;
+}
+.text3 {
+  font-family: tahoma;
+  font-size: 15px;
+  margin: 0 400px;
+  text-align: center;
+}
+
+.cn {
+  font-family: tahoma;
+  margin: 0px 550px;
+}
+
